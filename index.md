@@ -1,2 +1,1 @@
-To handle the entirety of this annotation process we introduce the software *Fast Colonoscopy Annotation Tool* (FastCAT). This tool provides assistance to your annotation process in endoscopic videos but can easilybe extended to any other medical domain.
-
+To handle the entirety of this annotation process we introduce the software *Fast Colonoscopy Annotation Tool* (FastCAT). This tool provides assistance to your annotation process in endoscopic videos but can easily be extended to any other medical domain.
