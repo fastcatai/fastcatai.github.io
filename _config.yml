@@ -1,1 +1,10 @@
+title: FastCAT
+email: your-email@example.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Fast Colonoscopy Annotation Tool
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://fastcatai.github.io
+github_username:  fastcatai
 theme: jekyll-theme-cayman
+github:
+  repository_url: https://github.com/fastcatai/fastcat
